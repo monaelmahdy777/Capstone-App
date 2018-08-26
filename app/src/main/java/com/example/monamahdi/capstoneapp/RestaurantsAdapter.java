@@ -81,7 +81,7 @@ public class RestaurantsAdapter extends RecyclerView.Adapter<RestaurantsAdapter.
                     String fullPath = "https://maps.googleapis.com/maps/api/place/photo" +
                             "?maxwidth=400" +
                             "&photoreference= " + imageReference +
-                            "&key=AIzaSyAfDHQhe4fmz5FAitOnTjrOFPesb88GXFE";
+                            "&key=";
                     Glide.with(context)
                             .load(fullPath)
                             .into(holder.thumbnail);

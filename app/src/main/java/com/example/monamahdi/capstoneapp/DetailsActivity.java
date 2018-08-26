@@ -46,7 +46,7 @@ public class DetailsActivity extends AppCompatActivity {
     private TabLayout tabLayout;
     private ViewPager viewPager;
     private ArrayList<ListResponse> weatherDataArrayList;
-    private final static String API_KEY = "AIzaSyBcPGMy2ThOkbeXjdm2oSZN6irAsU5cArM";
+    private final static String API_KEY = "";
     private List<Result> results;
     private String listResponses;
 

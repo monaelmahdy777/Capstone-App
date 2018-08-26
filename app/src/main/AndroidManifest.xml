@@ -30,7 +30,7 @@
         </receiver>
         <meta-data
             android:name="io.fabric.ApiKey"
-            android:value="bb76ab6c1a40219fa2ba0227ca5c6e9cee3fec80"
+            android:value=""
             />
     </application>
 

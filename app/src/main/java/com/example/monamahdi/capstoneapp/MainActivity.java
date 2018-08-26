@@ -49,10 +49,10 @@ public class MainActivity extends AppCompatActivity {
 
     private Button TV_go;
     private EditText ET_city,ET_country;
-    private final static String API_KEY = "f4b0dc2b8e052df73a4b0e598548055f";
+    private final static String API_KEY = "";
     private String listResponses;
     private String city,ET_city_string,ET_country_string;
-    private final static String API_KEY1 = "AIzaSyBcPGMy2ThOkbeXjdm2oSZN6irAsU5cArM";
+    private final static String API_KEY1 = "";
     private List<Result> results;
     private String listResponses1;
 

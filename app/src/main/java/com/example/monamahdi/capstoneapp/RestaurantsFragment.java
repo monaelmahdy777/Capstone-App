@@ -41,11 +41,11 @@ import retrofit2.Response;
 public class RestaurantsFragment extends Fragment {
 
     private View view;
-    private final static String API_KEY = "AIzaSyBcPGMy2ThOkbeXjdm2oSZN6irAsU5cArM";
+    private final static String API_KEY = "";
     private RecyclerView recycler_view;
     private RestaurantsAdapter restaurantsAdapter;
 //    private ArrayList<Result> resultArrayList;
-    private final static String API_KEY1 = "AIzaSyBcPGMy2ThOkbeXjdm2oSZN6irAsU5cArM";
+    private final static String API_KEY1 = "";
     private List<Result> results;
     private String listResponses1;
     String mRecyclerPositionKey;
